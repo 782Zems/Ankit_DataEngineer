@@ -1,0 +1,311 @@
+FinInstrmGnlAttrbts.Id,FinInstrmGnlAttrbts.FullNm,FinInstrmGnlAttrbts.ClssfctnTp,FinInstrmGnlAttrbts.CmmdtyDerivInd,FinInstrmGnlAttrbts.NtnlCcy,Issr
+EZV1JDJ1R5Q9,Foreign_Exchange Forward JPY SEK 20210116,JFTXFP,false,SEK,false
+EZV1JDJ1R5Q9,Foreign_Exchange Forward JPY SEK 20210116,JFTXFP,false,SEK,false
+EZV4N4MHR6R0,Foreign_Exchange Forward CAD GBP 20210116,JFTXFP,false,GBP,false
+EZV4N4MHR6R0,Foreign_Exchange Forward CAD GBP 20210116,JFTXFP,false,GBP,false
+EZV51K6FBPB6,Rates Swap Fixed_Float EUR-EURIBOR-Reuters 3 MNTH 20210116,SRCCSP,false,EUR,false
+EZV51K6FBPB6,Rates Swap Fixed_Float EUR-EURIBOR-Reuters 3 MNTH 20210116,SRCCSP,false,EUR,false
+EZV8QY62F100,Foreign_Exchange Forward AUD SEK 20210116,JFTXFP,false,SEK,false
+EZV8QY62F100,Foreign_Exchange Forward AUD SEK 20210116,JFTXFP,false,SEK,false
+EZV9QCSPFHR0,Foreign_Exchange Forward GBP USD 20210116,JFTXFP,false,GBP,false
+EZV9QCSPFHR0,Foreign_Exchange Forward GBP USD 20210116,JFTXFP,false,GBP,false
+EZV9QCSPFHR0,Foreign_Exchange Forward GBP USD 20210116,JFTXFP,false,GBP,false
+EZV9QCSPFHR0,Foreign_Exchange Forward GBP USD 20210116,JFTXFP,false,GBP,false
+EZV9QCSPFHR0,Foreign_Exchange Forward GBP USD 20210116,JFTXFP,false,GBP,false
+EZV9QCSPFHR0,Foreign_Exchange Forward GBP USD 20210116,JFTXFP,false,GBP,false
+EZVFD5W7NCP9,Foreign_Exchange Forward DKK EUR 20210116,JFTXFP,false,EUR,false
+EZVFD5W7NCP9,Foreign_Exchange Forward DKK EUR 20210116,JFTXFP,false,EUR,false
+EZVGNMRFJ5T4,Foreign_Exchange Forward HKD JPY 20210116,JFTXFP,false,HKD,false
+EZVGNMRFJ5T4,Foreign_Exchange Forward HKD JPY 20210116,JFTXFP,false,HKD,false
+EZVHVPWN6MF5,Foreign_Exchange Forward CAD NZD 20210116,JFTXFP,false,NZD,false
+EZVHVPWN6MF5,Foreign_Exchange Forward CAD NZD 20210116,JFTXFP,false,NZD,false
+EZVJ4S0VLHT0,Foreign_Exchange Forward RUB USD 20210116,JFTXFP,false,USD,false
+EZVJ4S0VLHT0,Foreign_Exchange Forward RUB USD 20210116,JFTXFP,false,USD,false
+EZVLTNQ077N1,Foreign_Exchange Forward DKK USD 20210116,JFTXFP,false,USD,false
+EZVLTNQ077N1,Foreign_Exchange Forward DKK USD 20210116,JFTXFP,false,USD,false
+EZVR3VK2RLD9,Foreign_Exchange Forward CZK GBP 20210116,JFTXFP,false,GBP,false
+EZVR3VK2RLD9,Foreign_Exchange Forward CZK GBP 20210116,JFTXFP,false,GBP,false
+EZVVSRHRCXZ0,Foreign_Exchange Forward BHD USD 20210116,JFTXFP,false,USD,false
+EZVVSRHRCXZ0,Foreign_Exchange Forward BHD USD 20210116,JFTXFP,false,USD,false
+EZWQ5BZQ5B61,Rates Swap Fixed_Float_OIS 10 MNTH EUR-EuroSTR-COMPOUND 1 DAYS 20210116,SRHCSP,false,EUR,false
+EZWQ5BZQ5B61,Rates Swap Fixed_Float_OIS 10 MNTH EUR-EuroSTR-COMPOUND 1 DAYS 20210116,SRHCSP,false,EUR,false
+EZWT4YWMCRR1,Foreign_Exchange Forward JPY NZD 20210116,JFTXFP,false,NZD,false
+EZWT4YWMCRR1,Foreign_Exchange Forward JPY NZD 20210116,JFTXFP,false,NZD,false
+EZXBVTJW1075,Foreign_Exchange Forward SGD USD 20210116,JFTXFP,false,USD,false
+EZXBVTJW1075,Foreign_Exchange Forward SGD USD 20210116,JFTXFP,false,USD,false
+EZXGZ2KHBX52,Foreign_Exchange Forward GBP SEK 20210116,JFTXFP,false,GBP,false
+EZXGZ2KHBX52,Foreign_Exchange Forward GBP SEK 20210116,JFTXFP,false,GBP,false
+EZYG6HFBB339,Rates Swap Fixed_Float 1 YEAR EUR-EURIBOR-Reuters 6 MNTH 20210116,SRCCSP,false,EUR,false
+EZYG6HFBB339,Rates Swap Fixed_Float 1 YEAR EUR-EURIBOR-Reuters 6 MNTH 20210116,SRCCSP,false,EUR,false
+EZYQMYM1GGL7,Rates Swap Fixed_Float_OIS 2 MNTH EUR-EONIA-OIS-COMPOUND 1 DAYS 20210116,SRHCSP,false,EUR,false
+EZYQMYM1GGL7,Rates Swap Fixed_Float_OIS 2 MNTH EUR-EONIA-OIS-COMPOUND 1 DAYS 20210116,SRHCSP,false,EUR,false
+EZYQMYM1GGL7,EUR SWAP EONIA 2MO,SRHCSP,false,EUR,false
+EZYQMYM1GGL7,EUR SWAP EONIA 2MO,SRHCSP,false,EUR,false
+EZYQMYM1GGL7,Rates Swap Fixed_Float_OIS 2 MNTH EUR-EONIA-OIS-COMPOUND 1 DAYS 20210116,SRHCSP,false,EUR,false
+EZYQMYM1GGL7,Rates Swap Fixed_Float_OIS 2 MNTH EUR-EONIA-OIS-COMPOUND 1 DAYS 20210116,SRHCSP,false,EUR,false
+EZYQMYM1GGL7,Rates Swap Fixed_Float_OIS 2 MNTH EUR-EONIA-OIS-COMPOUND 1 DAYS 20210116,SRHCSP,false,EUR,false
+EZYQMYM1GGL7,Rates Swap Fixed_Float_OIS 2 MNTH EUR-EONIA-OIS-COMPOUND 1 DAYS 20210116,SRHCSP,false,EUR,false
+EZZ2V0YNH1L1,Rates Swap Fixed_Float_OIS 3 MNTH USD-Federal Funds-H.15-OIS-COMPOUND 1 DAYS 20210116,SRHCSP,false,USD,false
+EZZ2V0YNH1L1,Rates Swap Fixed_Float_OIS 3 MNTH USD-Federal Funds-H.15-OIS-COMPOUND 1 DAYS 20210116,SRHCSP,false,USD,false
+USG0732RAF58,BRADES 5.9 01/16/21 BOND,DBFUGR,false,USD,false
+USG0732RAF58,BRADES 5.9 01/16/21 BOND,DBFUGR,false,USD,false
+XS1720053229,RACE 0  1/4  01/16/21 BOND,DBFNBB,false,EUR,false
+XS1720053229,RACE 0  1/4  01/16/21 BOND,DBFNBB,false,EUR,false
+XS1720053229,RACE 0  1/4  01/16/21 BOND,DBFNBB,false,EUR,false
+XS1720053229,RACE 0  1/4  01/16/21 BOND,DBFNBB,false,EUR,false
+XS1720053229,RACE   0.250 01/16/21,DBFNBB,false,EUR,false
+XS1720053229,RACE   0.250 01/16/21,DBFNBB,false,EUR,false
+XS1720053229,"FERRARI N.V. EUR 500,000,000 0.250 per cent. Notes due 16 January 2021		",DBFNBB,false,EUR,false
+XS1720053229,"FERRARI N.V. EUR 500,000,000 0.250 per cent. Notes due 16 January 2021		",DBFNBB,false,EUR,false
+XS2065108206,CREDIT SUISSE SECURITIES JAPAN LTD 1052 S185338EN,DEXXRS,false,USD,false
+XS2065108206,CREDIT SUISSE SECURITIES JAPAN LTD 1052 S185338EN,DEXXRS,false,USD,false
+XS2065108545,CREDIT SUISSE SECURITIES JAPAN LTD 1051 S185335EN,DEXXRS,false,USD,false
+XS2065108545,CREDIT SUISSE SECURITIES JAPAN LTD 1051 S185335EN,DEXXRS,false,USD,false
+XS2094512394,"WELLESLEY SECURED FINANCE PLC Issue of GBP 297,000 Sterling denominated 3% Series 46 Notes Due 2021",DTFXFR,false,GBP,false
+XS2094512394,"WELLESLEY SECURED FINANCE PLC Issue of GBP 297,000 Sterling denominated 3% Series 46 Notes Due 2021",DTFXFR,false,GBP,false
+XS2103230749,"STANDARD CHARTERED BANK Issue of USD 3,000,000 Synthetic Currency Linked Notes due 2021",DTFUFB,false,USD,false
+XS2103230749,"STANDARD CHARTERED BANK Issue of USD 3,000,000 Synthetic Currency Linked Notes due 2021",DTFUFB,false,USD,false
+EZ1NQL0L7467,Foreign_Exchange Forward JOD SEK 20210116,JFTXFP,false,SEK,false
+EZ1NQL0L7467,Foreign_Exchange Forward JOD SEK 20210116,JFTXFP,false,SEK,false
+EZ1QJ80R18F1,Foreign_Exchange Forward GBP ZAR 20210116,JFTXFP,false,GBP,false
+EZ1QJ80R18F1,Foreign_Exchange Forward GBP ZAR 20210116,JFTXFP,false,GBP,false
+EZ1QQN22LK04,Foreign_Exchange Forward EUR MXN 20210116,JFTXFP,false,EUR,false
+EZ1QQN22LK04,Foreign_Exchange Forward EUR MXN 20210116,JFTXFP,false,EUR,false
+EZ22PNHYCJG4,Foreign_Exchange Forward BHD GBP 20210116,JFTXFP,false,GBP,false
+EZ22PNHYCJG4,Foreign_Exchange Forward BHD GBP 20210116,JFTXFP,false,GBP,false
+EZ257N66VMJ1,Foreign_Exchange Forward GBP JPY 20210116,JFTXFP,false,GBP,false
+EZ257N66VMJ1,Foreign_Exchange Forward GBP JPY 20210116,JFTXFP,false,GBP,false
+EZ2B9ZH2YLM2,Foreign_Exchange Forward THB USD 20210116,JFTXFP,false,USD,false
+EZ2B9ZH2YLM2,Foreign_Exchange Forward THB USD 20210116,JFTXFP,false,USD,false
+EZ2F0Q6Y23L1,Foreign_Exchange Forward EUR NZD 20210116,JFTXFP,false,EUR,false
+EZ2F0Q6Y23L1,Foreign_Exchange Forward EUR NZD 20210116,JFTXFP,false,EUR,false
+EZ2KCQK404Q2,Foreign_Exchange Forward JPY MXN 20210116,JFTXFP,false,MXN,false
+EZ2KCQK404Q2,Foreign_Exchange Forward JPY MXN 20210116,JFTXFP,false,MXN,false
+EZ2N6JNK8Z30,Foreign_Exchange Forward CNY SGD 20210116,JFTXFP,false,SGD,false
+EZ2N6JNK8Z30,Foreign_Exchange Forward CNY SGD 20210116,JFTXFP,false,SGD,false
+EZ2VGJ6M2X09,Foreign_Exchange Forward MXN SEK 20210116,JFTXFP,false,SEK,false
+EZ2VGJ6M2X09,Foreign_Exchange Forward MXN SEK 20210116,JFTXFP,false,SEK,false
+EZ2W5B2J0QH9,Foreign_Exchange Forward NOK SEK 20210116,JFTXFP,false,NOK,false
+EZ2W5B2J0QH9,Foreign_Exchange Forward NOK SEK 20210116,JFTXFP,false,NOK,false
+EZ2Z6TS454M7,Foreign_Exchange Forward GBP NZD 20210116,JFTXFP,false,GBP,false
+EZ2Z6TS454M7,Foreign_Exchange Forward GBP NZD 20210116,JFTXFP,false,GBP,false
+EZ336SPCZ968,Foreign_Exchange Forward SEK SGD 20210116,JFTXFP,false,SEK,false
+EZ336SPCZ968,Foreign_Exchange Forward SEK SGD 20210116,JFTXFP,false,SEK,false
+EZ36PV5X3WM0,Foreign_Exchange Forward RON SEK 20210116,JFTXFP,false,SEK,false
+EZ36PV5X3WM0,Foreign_Exchange Forward RON SEK 20210116,JFTXFP,false,SEK,false
+EZ3740SKL570,Foreign_Exchange Forward GBP ILS 20210116,JFTXFP,false,GBP,false
+EZ3740SKL570,Foreign_Exchange Forward GBP ILS 20210116,JFTXFP,false,GBP,false
+EZ37QS2XP010,Foreign_Exchange Forward EUR THB 20210116,JFTXFP,false,EUR,false
+EZ37QS2XP010,Foreign_Exchange Forward EUR THB 20210116,JFTXFP,false,EUR,false
+EZ3D4N0FYMN2,Foreign_Exchange Forward AUD JPY 20210116,JFTXFP,false,AUD,false
+EZ3D4N0FYMN2,Foreign_Exchange Forward AUD JPY 20210116,JFTXFP,false,AUD,false
+EZ3DLZFC2J51,Foreign_Exchange Forward OMR USD 20210116,JFTXFP,false,USD,false
+EZ3DLZFC2J51,Foreign_Exchange Forward OMR USD 20210116,JFTXFP,false,USD,false
+EZ3Q2HH3WGL1,Foreign_Exchange Forward CHF NOK 20210116,JFTXFP,false,CHF,false
+EZ3Q2HH3WGL1,Foreign_Exchange Forward CHF NOK 20210116,JFTXFP,false,CHF,false
+EZ3QG804P3C6,Foreign_Exchange Forward JPY NOK 20210116,JFTXFP,false,NOK,false
+EZ3QG804P3C6,Foreign_Exchange Forward JPY NOK 20210116,JFTXFP,false,NOK,false
+EZ3RJRC49NB4,Foreign_Exchange Forward AUD CNY 20210116,JFTXFP,false,AUD,false
+EZ3RJRC49NB4,Foreign_Exchange Forward AUD CNY 20210116,JFTXFP,false,AUD,false
+EZ3RTD3CG4B6,Foreign_Exchange Forward AED USD 20210116,JFTXFP,false,AED,false
+EZ3RTD3CG4B6,Foreign_Exchange Forward AED USD 20210116,JFTXFP,false,AED,false
+EZ3W89JL7769,Foreign_Exchange Forward EUR PLN 20210116,JFTXFP,false,EUR,false
+EZ3W89JL7769,Foreign_Exchange Forward EUR PLN 20210116,JFTXFP,false,EUR,false
+EZ41GVCL9662,Foreign_Exchange Forward GBP HKD 20210116,JFTXFP,false,GBP,false
+EZ41GVCL9662,Foreign_Exchange Forward GBP HKD 20210116,JFTXFP,false,GBP,false
+EZ42PS2BQSR4,Foreign_Exchange Forward CHF JPY 20210116,JFTXFP,false,CHF,false
+EZ42PS2BQSR4,Foreign_Exchange Forward CHF JPY 20210116,JFTXFP,false,CHF,false
+EZ45CLCC4H26,Foreign_Exchange Forward GBP QAR 20210116,JFTXFP,false,GBP,false
+EZ45CLCC4H26,Foreign_Exchange Forward GBP QAR 20210116,JFTXFP,false,GBP,false
+EZ45N7JX6F48,Foreign_Exchange Forward JPY THB 20210116,JFTXFP,false,THB,false
+EZ45N7JX6F48,Foreign_Exchange Forward JPY THB 20210116,JFTXFP,false,THB,false
+EZ47ZZMGYW12,Foreign_Exchange Forward SAR USD 20210116,JFTXFP,false,USD,false
+EZ47ZZMGYW12,Foreign_Exchange Forward SAR USD 20210116,JFTXFP,false,USD,false
+EZ48M8YPKGJ4,Foreign_Exchange Forward CNY USD 20210116,JFTXFP,false,USD,false
+EZ48M8YPKGJ4,Foreign_Exchange Forward CNY USD 20210116,JFTXFP,false,USD,false
+EZ48Y7CJHPL4,Foreign_Exchange Forward EUR OMR 20210116,JFTXFP,false,EUR,false
+EZ48Y7CJHPL4,Foreign_Exchange Forward EUR OMR 20210116,JFTXFP,false,EUR,false
+EZ4DKF13WL17,Foreign_Exchange Forward GBP PLN 20210116,JFTXFP,false,GBP,false
+EZ4DKF13WL17,Foreign_Exchange Forward GBP PLN 20210116,JFTXFP,false,GBP,false
+EZ4DRCYSJ4V7,Foreign_Exchange Forward AUD USD 20210116,JFTXFP,false,AUD,false
+EZ4DRCYSJ4V7,Foreign_Exchange Forward AUD USD 20210116,JFTXFP,false,AUD,false
+EZ4P3BJNDSR4,Foreign_Exchange Forward EUR JPY 20210116,JFTXFP,false,EUR,false
+EZ4P3BJNDSR4,Foreign_Exchange Forward EUR JPY 20210116,JFTXFP,false,EUR,false
+EZ4X5MWK3RS1,Foreign_Exchange Forward EUR JOD 20210116,JFTXFP,false,EUR,false
+EZ4X5MWK3RS1,Foreign_Exchange Forward EUR JOD 20210116,JFTXFP,false,EUR,false
+EZ568QJ17N79,Foreign_Exchange Forward EUR ZAR 20210116,JFTXFP,false,EUR,false
+EZ568QJ17N79,Foreign_Exchange Forward EUR ZAR 20210116,JFTXFP,false,EUR,false
+EZ568QJ17N79,Foreign_Exchange Forward EUR ZAR 20210116,JFTXFP,false,EUR,false
+EZ568QJ17N79,Foreign_Exchange Forward EUR ZAR 20210116,JFTXFP,false,EUR,false
+EZ5BY0GKNVC5,Foreign_Exchange Forward AUD EUR 20210116,JFTXFP,false,EUR,false
+EZ5BY0GKNVC5,Foreign_Exchange Forward AUD EUR 20210116,JFTXFP,false,EUR,false
+EZ5L2L1QRHL7,Foreign_Exchange Forward CNY HKD 20210116,JFTXFP,false,CNY,false
+EZ5L2L1QRHL7,Foreign_Exchange Forward CNY HKD 20210116,JFTXFP,false,CNY,false
+EZ5P65LDW3V6,Foreign_Exchange Forward ILS SEK 20210116,JFTXFP,false,SEK,false
+EZ5P65LDW3V6,Foreign_Exchange Forward ILS SEK 20210116,JFTXFP,false,SEK,false
+EZ5PCRW2X6T5,Foreign_Exchange Forward CNY EUR 20210116,JFTXFP,false,EUR,false
+EZ5PCRW2X6T5,Foreign_Exchange Forward CNY EUR 20210116,JFTXFP,false,EUR,false
+EZ5R1MRFLRC8,Foreign_Exchange Forward GBP JOD 20210116,JFTXFP,false,GBP,false
+EZ5R1MRFLRC8,Foreign_Exchange Forward GBP JOD 20210116,JFTXFP,false,GBP,false
+EZ5S3X0L73P1,Foreign_Exchange Forward GBP SGD 20210116,JFTXFP,false,GBP,false
+EZ5S3X0L73P1,Foreign_Exchange Forward GBP SGD 20210116,JFTXFP,false,GBP,false
+EZ5SYSC6NL75,Foreign_Exchange Forward DKK SEK 20210116,JFTXFP,false,SEK,false
+EZ5SYSC6NL75,Foreign_Exchange Forward DKK SEK 20210116,JFTXFP,false,SEK,false
+EZ5V5CP0M821,Foreign_Exchange Forward BHD EUR 20210116,JFTXFP,false,EUR,false
+EZ5V5CP0M821,Foreign_Exchange Forward BHD EUR 20210116,JFTXFP,false,EUR,false
+EZ5Y8932Z896,Foreign_Exchange Forward EUR SGD 20210116,JFTXFP,false,EUR,false
+EZ5Y8932Z896,Foreign_Exchange Forward EUR SGD 20210116,JFTXFP,false,EUR,false
+EZ5ZJPNDZ7W6,Foreign_Exchange Forward JPY TRY 20210116,JFTXFP,false,TRY,false
+EZ5ZJPNDZ7W6,Foreign_Exchange Forward JPY TRY 20210116,JFTXFP,false,TRY,false
+EZ68SVSSD468,Foreign_Exchange Forward AUD CHF 20210116,JFTXFP,false,AUD,false
+EZ68SVSSD468,Foreign_Exchange Forward AUD CHF 20210116,JFTXFP,false,AUD,false
+EZ69D2VLWX38,Foreign_Exchange Forward CAD JPY 20210116,JFTXFP,false,CAD,false
+EZ69D2VLWX38,Foreign_Exchange Forward CAD JPY 20210116,JFTXFP,false,CAD,false
+EZ6D6V5ZWQ87,Foreign_Exchange Forward SEK USD 20210116,JFTXFP,false,SEK,false
+EZ6D6V5ZWQ87,Foreign_Exchange Forward SEK USD 20210116,JFTXFP,false,SEK,false
+EZ6K94MTLKG4,Foreign_Exchange Forward AUD GBP 20210116,JFTXFP,false,GBP,false
+EZ6K94MTLKG4,Foreign_Exchange Forward AUD GBP 20210116,JFTXFP,false,GBP,false
+EZ6L24VNZFT6,Foreign_Exchange Forward AUD NZD 20210116,JFTXFP,false,AUD,false
+EZ6L24VNZFT6,Foreign_Exchange Forward AUD NZD 20210116,JFTXFP,false,AUD,false
+EZ6LVPZBQWJ9,Foreign_Exchange Forward CAD USD 20210116,JFTXFP,false,USD,false
+EZ6LVPZBQWJ9,Foreign_Exchange Forward CAD USD 20210116,JFTXFP,false,USD,false
+EZ6LVPZBQWJ9,Foreign_Exchange Forward CAD USD 20210116,JFTXFP,false,USD,false
+EZ6LVPZBQWJ9,Foreign_Exchange Forward CAD USD 20210116,JFTXFP,false,USD,false
+EZ6QHSN86LP4,Foreign_Exchange Forward NZD SEK 20210116,JFTXFP,false,SEK,false
+EZ6QHSN86LP4,Foreign_Exchange Forward NZD SEK 20210116,JFTXFP,false,SEK,false
+EZ6THMCSZVN6,Foreign_Exchange Forward EUR GBP 20210116,JFTXFP,false,EUR,false
+EZ6THMCSZVN6,Foreign_Exchange Forward EUR GBP 20210116,JFTXFP,false,EUR,false
+EZ6THMCSZVN6,Foreign_Exchange Forward EUR GBP 20210116,JFTXFP,false,EUR,false
+EZ6THMCSZVN6,Foreign_Exchange Forward EUR GBP 20210116,JFTXFP,false,EUR,false
+EZ6TJHQW0KB5,Foreign_Exchange Forward EUR NOK 20210116,JFTXFP,false,EUR,false
+EZ6TJHQW0KB5,Foreign_Exchange Forward EUR NOK 20210116,JFTXFP,false,EUR,false
+EZ6TNSPF58V0,Foreign_Exchange Forward RON USD 20210116,JFTXFP,false,USD,false
+EZ6TNSPF58V0,Foreign_Exchange Forward RON USD 20210116,JFTXFP,false,USD,false
+EZ7022XJQ8M9,Foreign_Exchange Forward GBP MXN 20210116,JFTXFP,false,GBP,false
+EZ7022XJQ8M9,Foreign_Exchange Forward GBP MXN 20210116,JFTXFP,false,GBP,false
+EZ77K686BWC8,Foreign_Exchange Forward EUR RON 20210116,JFTXFP,false,EUR,false
+EZ77K686BWC8,Foreign_Exchange Forward EUR RON 20210116,JFTXFP,false,EUR,false
+EZ7GKF94PF44,Foreign_Exchange Forward HKD SEK 20210116,JFTXFP,false,SEK,false
+EZ7GKF94PF44,Foreign_Exchange Forward HKD SEK 20210116,JFTXFP,false,SEK,false
+EZ7HVP8T5CV2,Foreign_Exchange Forward CHF EUR 20210116,JFTXFP,false,EUR,false
+EZ7HVP8T5CV2,Foreign_Exchange Forward CHF EUR 20210116,JFTXFP,false,EUR,false
+EZ7JMG074R32,Foreign_Exchange Forward CNY JPY 20210116,JFTXFP,false,CNY,false
+EZ7JMG074R32,Foreign_Exchange Forward CNY JPY 20210116,JFTXFP,false,CNY,false
+EZ7K7S45JDG6,Foreign_Exchange Forward JPY ZAR 20210116,JFTXFP,false,ZAR,false
+EZ7K7S45JDG6,Foreign_Exchange Forward JPY ZAR 20210116,JFTXFP,false,ZAR,false
+EZ7M8KWVDJZ2,Foreign_Exchange Forward AED EUR 20210116,JFTXFP,false,EUR,false
+EZ7M8KWVDJZ2,Foreign_Exchange Forward AED EUR 20210116,JFTXFP,false,EUR,false
+EZ7WWVXT7KB5,Foreign_Exchange Forward EUR USD 20210116,JFTXFP,false,EUR,false
+EZ7WWVXT7KB5,Foreign_Exchange Forward EUR USD 20210116,JFTXFP,false,EUR,false
+EZ7WWVXT7KB5,Foreign_Exchange Forward EUR USD 20210116,JFTXFP,false,EUR,false
+EZ7WWVXT7KB5,Foreign_Exchange Forward EUR USD 20210116,JFTXFP,false,EUR,false
+EZ7YHLDYBSC2,Foreign_Exchange Forward CHF SEK 20210116,JFTXFP,false,CHF,false
+EZ7YHLDYBSC2,Foreign_Exchange Forward CHF SEK 20210116,JFTXFP,false,CHF,false
+EZ82GSNDYNM2,Foreign_Exchange Forward TRY USD 20210116,JFTXFP,false,USD,false
+EZ82GSNDYNM2,Foreign_Exchange Forward TRY USD 20210116,JFTXFP,false,USD,false
+EZ8712X8L8Z6,Foreign_Exchange Forward MXN USD 20210116,JFTXFP,false,USD,false
+EZ8712X8L8Z6,Foreign_Exchange Forward MXN USD 20210116,JFTXFP,false,USD,false
+EZ876WS0MS10,Foreign_Exchange Forward JPY USD 20210116,JFTXFP,false,USD,false
+EZ876WS0MS10,Foreign_Exchange Forward JPY USD 20210116,JFTXFP,false,USD,false
+EZ876WS0MS10,Foreign_Exchange Forward JPY USD 20210116,JFTXFP,false,USD,false
+EZ876WS0MS10,Foreign_Exchange Forward JPY USD 20210116,JFTXFP,false,USD,false
+EZ8D7V9251B1,Foreign_Exchange Forward GBP NOK 20210116,JFTXFP,false,GBP,false
+EZ8D7V9251B1,Foreign_Exchange Forward GBP NOK 20210116,JFTXFP,false,GBP,false
+EZ8QDT6LST56,Foreign_Exchange Forward EUR SEK 20210116,JFTXFP,false,EUR,false
+EZ8QDT6LST56,Foreign_Exchange Forward EUR SEK 20210116,JFTXFP,false,EUR,false
+EZ8SDH1J0JJ2,Foreign_Exchange Forward KWD USD 20210116,JFTXFP,false,USD,false
+EZ8SDH1J0JJ2,Foreign_Exchange Forward KWD USD 20210116,JFTXFP,false,USD,false
+EZ8SYCS33LV4,Foreign_Exchange Forward AED SEK 20210116,JFTXFP,false,SEK,false
+EZ8SYCS33LV4,Foreign_Exchange Forward AED SEK 20210116,JFTXFP,false,SEK,false
+EZ8T49Z7CKS7,Foreign_Exchange Forward GBP OMR 20210116,JFTXFP,false,GBP,false
+EZ8T49Z7CKS7,Foreign_Exchange Forward GBP OMR 20210116,JFTXFP,false,GBP,false
+EZ8V2TPFZNH4,Foreign_Exchange Forward NZD USD 20210116,JFTXFP,false,NZD,false
+EZ8V2TPFZNH4,Foreign_Exchange Forward NZD USD 20210116,JFTXFP,false,NZD,false
+EZ93FLFGT1Q4,Foreign_Exchange Forward CAD EUR 20210116,JFTXFP,false,EUR,false
+EZ93FLFGT1Q4,Foreign_Exchange Forward CAD EUR 20210116,JFTXFP,false,EUR,false
+EZ96HBD2YGP9,Foreign_Exchange Forward CZK SEK 20210116,JFTXFP,false,SEK,false
+EZ96HBD2YGP9,Foreign_Exchange Forward CZK SEK 20210116,JFTXFP,false,SEK,false
+EZ99M83JQPW4,Foreign_Exchange Forward EUR ILS 20210116,JFTXFP,false,EUR,false
+EZ99M83JQPW4,Foreign_Exchange Forward EUR ILS 20210116,JFTXFP,false,EUR,false
+EZ9B3FM231H0,Foreign_Exchange Forward BHD SEK 20210116,JFTXFP,false,SEK,false
+EZ9B3FM231H0,Foreign_Exchange Forward BHD SEK 20210116,JFTXFP,false,SEK,false
+EZ9B3S467791,Foreign_Exchange Forward AUD HKD 20210116,JFTXFP,false,AUD,false
+EZ9B3S467791,Foreign_Exchange Forward AUD HKD 20210116,JFTXFP,false,AUD,false
+EZ9C8YX0GQR6,Foreign_Exchange Forward AUD CAD 20210116,JFTXFP,false,AUD,false
+EZ9C8YX0GQR6,Foreign_Exchange Forward AUD CAD 20210116,JFTXFP,false,AUD,false
+EZ9CJN4P2SC0,Foreign_Exchange Forward CNY RUB 20210116,JFTXFP,false,CNY,false
+EZ9CJN4P2SC0,Foreign_Exchange Forward CNY RUB 20210116,JFTXFP,false,CNY,false
+EZ9FKSPQG1V1,Foreign_Exchange Forward DKK GBP 20210116,JFTXFP,false,GBP,false
+EZ9FKSPQG1V1,Foreign_Exchange Forward DKK GBP 20210116,JFTXFP,false,GBP,false
+EZ9GR74LDCP9,Foreign_Exchange Forward CHF GBP 20210116,JFTXFP,false,GBP,false
+EZ9GR74LDCP9,Foreign_Exchange Forward CHF GBP 20210116,JFTXFP,false,GBP,false
+EZ9JKR0JKVP2,Foreign_Exchange Forward NOK USD 20210116,JFTXFP,false,USD,false
+EZ9JKR0JKVP2,Foreign_Exchange Forward NOK USD 20210116,JFTXFP,false,USD,false
+EZ9M3LKKN729,Foreign_Exchange Forward CHF USD 20240531,JFTXFP,false,CHF,false
+EZ9M3LKKN729,Foreign_Exchange Forward CHF USD 20240531,JFTXFP,false,CHF,false
+EZ9M3LKKN729,Foreign_Exchange Forward CHF USD 20240531,JFTXFP,false,CHF,false
+EZ9M3LKKN729,Foreign_Exchange Forward CHF USD 20240531,JFTXFP,false,CHF,false
+EZ9M3LKKN729,Foreign_Exchange Forward CHF USD 20240531,JFTXFP,false,CHF,false
+EZ9M3LKKN729,Foreign_Exchange Forward CHF USD 20240531,JFTXFP,false,CHF,false
+EZB1L2322Q39,Foreign_Exchange Forward CAD SEK 20210116,JFTXFP,false,SEK,false
+EZB1L2322Q39,Foreign_Exchange Forward CAD SEK 20210116,JFTXFP,false,SEK,false
+EZB2Z368BBT5,Foreign_Exchange Forward CZK USD 20210116,JFTXFP,false,USD,false
+EZB2Z368BBT5,Foreign_Exchange Forward CZK USD 20210116,JFTXFP,false,USD,false
+EZB4WK2Q31N6,Foreign_Exchange Forward PLN USD 20210116,JFTXFP,false,USD,false
+EZB4WK2Q31N6,Foreign_Exchange Forward PLN USD 20210116,JFTXFP,false,USD,false
+EZBBCK8XHXM2,Foreign_Exchange Forward EUR HKD 20210116,JFTXFP,false,EUR,false
+EZBBCK8XHXM2,Foreign_Exchange Forward EUR HKD 20210116,JFTXFP,false,EUR,false
+EZBJ413T2LF2,Foreign_Exchange Forward QAR USD 20210116,JFTXFP,false,USD,false
+EZBJ413T2LF2,Foreign_Exchange Forward QAR USD 20210116,JFTXFP,false,USD,false
+EZBJMLQNZMD4,Foreign_Exchange Forward ILS USD 20210116,JFTXFP,false,USD,false
+EZBJMLQNZMD4,Foreign_Exchange Forward ILS USD 20210116,JFTXFP,false,USD,false
+EZBMQLTVLY87,Foreign_Exchange Forward QAR SEK 20210116,JFTXFP,false,SEK,false
+EZBMQLTVLY87,Foreign_Exchange Forward QAR SEK 20210116,JFTXFP,false,SEK,false
+EZBV01NJMP58,Foreign_Exchange Forward HKD USD 20210116,JFTXFP,false,USD,false
+EZBV01NJMP58,Foreign_Exchange Forward HKD USD 20210116,JFTXFP,false,USD,false
+EZBWWXS7DFZ5,Foreign_Exchange Forward CHF USD 20210116,JFTXFP,false,USD,false
+EZBWWXS7DFZ5,Foreign_Exchange Forward CHF USD 20210116,JFTXFP,false,USD,false
+EZBWWXS7DFZ5,Foreign_Exchange Forward CHF USD 20210116,JFTXFP,false,USD,false
+EZBWWXS7DFZ5,Foreign_Exchange Forward CHF USD 20210116,JFTXFP,false,USD,false
+EZDFN2LQV8G5,Foreign_Exchange Forward PLN SEK 20210116,JFTXFP,false,SEK,false
+EZDFN2LQV8G5,Foreign_Exchange Forward PLN SEK 20210116,JFTXFP,false,SEK,false
+EZKMWXD4FSV7,Foreign_Exchange Forward EUR QAR 20210116,JFTXFP,false,EUR,false
+EZKMWXD4FSV7,Foreign_Exchange Forward EUR QAR 20210116,JFTXFP,false,EUR,false
+EZLFRQ87VTG6,Foreign_Exchange Swap EUR USD 20210116,SFCXXP,false,EUR,false
+EZLFRQ87VTG6,Foreign_Exchange Swap EUR USD 20210116,SFCXXP,false,EUR,false
+EZNQW6NTMSW4,Foreign_Exchange Forward HUF USD 20210116,JFTXFP,false,USD,false
+EZNQW6NTMSW4,Foreign_Exchange Forward HUF USD 20210116,JFTXFP,false,USD,false
+EZPCT5XKW990,Foreign_Exchange Forward CZK EUR 20210116,JFTXFP,false,EUR,false
+EZPCT5XKW990,Foreign_Exchange Forward CZK EUR 20210116,JFTXFP,false,EUR,false
+EZPDDKZ8YMV0,Foreign_Exchange Forward SEK ZAR 20210116,JFTXFP,false,SEK,false
+EZPDDKZ8YMV0,Foreign_Exchange Forward SEK ZAR 20210116,JFTXFP,false,SEK,false
+EZT9F67SNFM3,EUR SWAP EONIA 3MO,SRHCSP,false,EUR,false
+EZT9F67SNFM3,EUR SWAP EONIA 3MO,SRHCSP,false,EUR,false
+EZV15GHWGFH1,Foreign_Exchange Forward GBP RON 20210116,JFTXFP,false,GBP,false
+EZV15GHWGFH1,Foreign_Exchange Forward GBP RON 20210116,JFTXFP,false,GBP,false
+EZ0LKWN8JY60,Foreign_Exchange Forward CHF USD 20250530,JFTXFP,false,CHF,false
+EZ0LKWN8JY60,Foreign_Exchange Forward CHF USD 20250530,JFTXFP,false,CHF,false
+EZ0LKWN8JY60,Foreign_Exchange Forward CHF USD 20250530,JFTXFP,false,CHF,false
+EZ0LKWN8JY60,Foreign_Exchange Forward CHF USD 20250530,JFTXFP,false,CHF,false
+EZ0LKWN8JY60,Foreign_Exchange Forward CHF USD 20250530,JFTXFP,false,CHF,false
+EZ0LKWN8JY60,Foreign_Exchange Forward CHF USD 20250530,JFTXFP,false,CHF,false
+EZ10CVL2ZY82,Foreign_Exchange Forward GBP HUF 20210116,JFTXFP,false,GBP,false
+EZ10CVL2ZY82,Foreign_Exchange Forward GBP HUF 20210116,JFTXFP,false,GBP,false
+EZ1111KJPVC6,Foreign_Exchange Forward GBP RUB 20210116,JFTXFP,false,GBP,false
+EZ1111KJPVC6,Foreign_Exchange Forward GBP RUB 20210116,JFTXFP,false,GBP,false
+EZ1232T2NNC3,Foreign_Exchange Forward USD ZAR 20210116,JFTXFP,false,USD,false
+EZ1232T2NNC3,Foreign_Exchange Forward USD ZAR 20210116,JFTXFP,false,USD,false
+EZ1425F7F244,Foreign_Exchange Forward EUR RUB 20210116,JFTXFP,false,EUR,false
+EZ1425F7F244,Foreign_Exchange Forward EUR RUB 20210116,JFTXFP,false,EUR,false
+EZ175705XFR2,Foreign_Exchange Forward JOD USD 20210116,JFTXFP,false,USD,false
+EZ175705XFR2,Foreign_Exchange Forward JOD USD 20210116,JFTXFP,false,USD,false
+EZ17BKQWR2P1,Foreign_Exchange Forward AED GBP 20210116,JFTXFP,false,GBP,false
+EZ17BKQWR2P1,Foreign_Exchange Forward AED GBP 20210116,JFTXFP,false,GBP,false
+EZ18T3JJN4R1,Foreign_Exchange Forward HUF SEK 20210116,JFTXFP,false,SEK,false
+EZ18T3JJN4R1,Foreign_Exchange Forward HUF SEK 20210116,JFTXFP,false,SEK,false
+EZ1FM6L2P013,Foreign_Exchange Forward EUR HUF 20210116,JFTXFP,false,EUR,false
+EZ1FM6L2P013,Foreign_Exchange Forward EUR HUF 20210116,JFTXFP,false,EUR,false
+EZ1KL0GHJ4S0,Foreign_Exchange Forward OMR SEK 20210116,JFTXFP,false,SEK,false
+EZ1KL0GHJ4S0,Foreign_Exchange Forward OMR SEK 20210116,JFTXFP,false,SEK,false
+CH0489392719,SHARIA CERTIFICATE REVERSE CONVERTIBLE ON EURO STOXX 50 SP 500 INDEX SMI INDEX NIKKEI 225 STOCK AVER,DEXXRS,false,USD,false
+CH0489392719,SHARIA CERTIFICATE REVERSE CONVERTIBLE ON EURO STOXX 50 SP 500 INDEX SMI INDEX NIKKEI 225 STOCK AVER,DEXXRS,false,USD,false
